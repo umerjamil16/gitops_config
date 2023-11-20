@@ -37,7 +37,7 @@ frontend:
   frontend:
     image:
       repository: umerjamil16/test
-      tag: frontend2
+      tag: frontend-4d938f40-1700504021
   ports:
   - nodePort: 30100
     port: 3000
