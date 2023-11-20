@@ -2,7 +2,7 @@ backend:
   backend:
     image:
       repository: umerjamil16/test
-      tag: backend-4d938f40-1700503857
+      tag: backend-4d938f40-1700510214
   ports:
   - port: 8080
     protocol: TCP
